@@ -7,3 +7,6 @@
 ### Hi there, I'm Jubin - aka JBJB 👋
 
 ![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=jbjb4467)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/badge?username=jbjb4467)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/chart?username=jbjb4467)
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/calendar?username=jbjb4467)
