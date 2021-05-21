@@ -5,3 +5,5 @@
 </div>
 
 ### Hi there, I'm Jubin - aka JBJB 👋
+
+![Openmind's Github Readme Health](https://github-readme-developer-health.com/cards/fit?username=jbjb4467)
